@@ -7,7 +7,7 @@ import flixel.tweens.FlxTween;
 import flixel.group.FlxSpriteGroup;
 import flixel.util.FlxColor;
 import flixel.text.FlxText;
-#if MODS_ALLOWED
+#if desktop
 import sys.FileSystem;
 import sys.io.File;
 #end
